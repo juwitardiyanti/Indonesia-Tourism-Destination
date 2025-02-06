@@ -20,6 +20,8 @@ This dataset contains information on **tourist attractions** across **five major
 
 ## Summary of Insights
 
+![Dashboard](https://github.com/juwitardiyanti/Indonesia-Tourism-Destination/blob/main/image/dashboard.webp)
+
 ### **Tourist Destinations in Major Cities of Java Island**
 
 #### **Number of Tourist Destinations**
